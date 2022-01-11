@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Testing OnlineStore UI" time="2.175" tests="1" failures="0" errors="0">
+   <testsuite name="Testing OnlineStore UI" tests="1" failures="0" errors="0" time="2.175" skipped="0" timestamp="2022-01-11 11:14:31" hostname="PEACE - 10.0.0.111" id="Test Suites/Testing OnlineStore UI">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/user/Katalon Studio/My First Web UI Project/Reports/20220111_111426/Testing OnlineStore UI/20220111_111426"/>
+         <property name="logFiles" value="/Users/user/Katalon Studio/My First Web UI Project/Reports/20220111_111426/Testing OnlineStore UI/20220111_111426/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="PEACE - 10.0.0.111"/>
+         <property name="hostAddress" value="10.0.0.111"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.2.0.208"/>
+      </properties>
+      <testcase name="Test Cases/Attempt Login" time="1.488" classname="Test Cases/Attempt Login" status="INCOMPLETE">
+         <system-out><![CDATA[2022-01-11 11:14:32 - [TEST_CASE][INCOMPLETE] - Test Cases/Attempt Login: null
+
+2022-01-11 11:14:33 - [TEST_STEP][INCOMPLETE] - openBrowser(""): Action delay is set to 0 milliseconds
+
+2022-01-11 11:14:33 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2022-01-11 11:14:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds]]></system-out>
+         <system-err><![CDATA[2022-01-11 11:14:32 - [TEST_CASE][INCOMPLETE] - Test Cases/Attempt Login: null]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-01-11 11:14:31 - [TEST_SUITE][INCOMPLETE] - Testing OnlineStore UI: null]]></system-out>
+      <system-err><![CDATA[2022-01-11 11:14:31 - [TEST_SUITE][INCOMPLETE] - Testing OnlineStore UI: null]]></system-err>
+   </testsuite>
+</testsuites>
