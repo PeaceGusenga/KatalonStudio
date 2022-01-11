@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test to see if site is up and running.</description>
+   <name>Attempt to SignUp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4cb080e1-fe58-415b-8560-2aa21e748b2c</testCaseGuid>
+</TestCaseEntity>

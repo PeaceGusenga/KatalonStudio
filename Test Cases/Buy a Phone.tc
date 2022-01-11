@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add 1 item to cart</description>
+   <name>Buy a Phone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecc57e78-13cd-4cf9-a633-f56d09b60e1e</testCaseGuid>
+</TestCaseEntity>
